@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "470912356401",
+    "firebase_url": "https://hack2know-8722e.firebaseio.com",
+    "project_id": "hack2know-8722e",
+    "storage_bucket": "hack2know-8722e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470912356401:android:828684407c8f782647c510",
+        "android_client_info": {
+          "package_name": "com.nshornalabs.sugary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470912356401-uhvqspj8fvd4tum6f6066kelvank5td4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nshornalabs.sugary",
+            "certificate_hash": "5c4cfc8afb8bd790c90a0167a4dad51cf41beb78"
+          }
+        },
+        {
+          "client_id": "470912356401-8dclrdslbhrk7r9tqomg1nk40hotaemc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYUgPYtrDHqILsiB74Tws8fNtc5TgT4_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470912356401-8dclrdslbhrk7r9tqomg1nk40hotaemc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
